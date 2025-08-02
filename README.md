@@ -230,5 +230,3 @@ For support and questions:
 - Review the component documentation in `/src/components`
 
 ---
-
-**Built with ❤️ for safer communities across India**
